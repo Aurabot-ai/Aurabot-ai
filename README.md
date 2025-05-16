@@ -1,136 +1,137 @@
-🤖 Aurabot ai 
+## 🤖 Aurabot ai 
 
 
-<!-- Plataforma Inteligente de Chatbots para WhatsApp -->
+## Plataforma Inteligente de Chatbots para WhatsApp
 📝 Descripción General
 
-Aurabot es una plataforma todo en uno para que empresas de cualquier tamaño puedan crear, entrenar y gestionar chatbots inteligentes exclusivamente para WhatsApp, sin necesidad de programar. Desde un panel central, los usuarios con roles como administrador o técnico pueden construir flujos de conversación, conectar sistemas externos, analizar métricas y automatizar tareas reales como cotizaciones, reservas, consultas, entre otros.
+- Aurabot es una plataforma todo en uno para que empresas de cualquier tamaño puedan crear, entrenar y gestionar chatbots inteligentes exclusivamente para WhatsApp, sin necesidad de programar. Desde un panel central, los usuarios con roles como administrador o técnico pueden construir flujos de conversación, conectar sistemas externos, analizar métricas y automatizar tareas reales como cotizaciones, reservas, consultas, entre otros.
 
-Con plantillas inteligentes, asistentes preentrenados y funciones potenciadas con IA, Aurabot transforma el WhatsApp empresarial en una herramienta de atención, soporte y venta automática 24/7, sin intervención humana constante.
+- Con plantillas inteligentes, asistentes preentrenados y funciones potenciadas con IA, Aurabot transforma el WhatsApp empresarial en una herramienta de atención, soporte y venta automática 24/7, sin intervención humana constante.
 
-<!-- 🚀 Características Principales -->
+## 🚀 Características Principales
 
-<!-- 🧠 Construcción de bots con IA y sin código -->
+## 🧠 Construcción de bots con IA y sin código 
 
-Entrena tu bot escribiendo frases y respuestas desde el panel (sin necesidad de código).
+- Entrena tu bot escribiendo frases y respuestas desde el panel (sin necesidad de código).
 
-Generador automático de flujos: escribe “Quiero un bot para agendar citas médicas” y Aurabot crea el flujo base listo para editar.
+- Generador automático de flujos: escribe “Quiero un bot para agendar citas médicas” y Aurabot crea el flujo base listo para editar.
 
-<!-- 📂 Plantillas por sectores -->
+ ## 📂 Plantillas por sectores
 
-Bots prediseñados para áreas como salud, comercio, educación, logística, restaurantes, etc.
+- Bots prediseñados para áreas como salud, comercio, educación, logística, restaurantes, etc.
 
-Personalizables en segundos.
+- Personalizables en segundos.
 
-<!-- 🔁 Flujos conversacionales avanzados -->
+ ## 🔁 Flujos conversacionales avanzados
 
-Condicionales, respuestas rápidas, menús interactivos, validación de datos y más.
+- Condicionales, respuestas rápidas, menús interactivos, validación de datos y más.
 
-Integración con bases de datos e inventarios para respuestas dinámicas.
+- Integración con bases de datos e inventarios para respuestas dinámicas.
 
-<!-- 👤 Gestión por roles -->
+ ## 👤 Gestión por roles 
 
-Administrador: Crea, entrena y administra bots, usuarios y configuraciones.
+- Administrador: Crea, entrena y administra bots, usuarios y configuraciones.
 
-Técnico: Gestiona flujos y responde a clientes cuando el bot transfiere la conversación.
+- Técnico: Gestiona flujos y responde a clientes cuando el bot transfiere la conversación.
 
-Cliente final: Interactúa solo por WhatsApp, sin necesidad de iniciar sesión.
+- Cliente final: Interactúa solo por WhatsApp, sin necesidad de iniciar sesión.
 
-<!-- 🔒 Seguridad y personalización por número -->
+## 🔒 Seguridad y personalización por número
 
-Cada número de cliente guarda historial y se identifica automáticamente.
+- Cada número de cliente guarda historial y se identifica automáticamente.
 
-Personalización de mensajes por nombre y contexto, incluso sin login.
+- Personalización de mensajes por nombre y contexto, incluso sin login.
 
-<!-- 📊 Análisis y recomendaciones con IA -->
+## 📊 Análisis y recomendaciones con IA
 
-Métricas por flujo, por bot y por usuario.
+- Métricas por flujo, por bot y por usuario.
 
-Sugerencias inteligentes para mejorar experiencia del cliente y reducir abandonos.
+- Sugerencias inteligentes para mejorar experiencia del cliente y reducir abandonos.
 
-<!-- 🧩 Integración con APIs externas -->
+## 🧩 Integración con APIs externas
 
-Consulta precios, disponibilidad, agendamientos o cualquier información desde tu ERP, CRM o base de datos externa.
+- Consulta precios, disponibilidad, agendamientos o cualquier información desde tu ERP, CRM o base de datos externa.
 
-<!-- 🔄 Escalamiento a humano (si es necesario) -->
+## 🔄 Escalamiento a humano (si es necesario)
 
-Cuando el bot no puede resolver algo, transfiere la conversación al técnico desde el panel interno.
+- Cuando el bot no puede resolver algo, transfiere la conversación al técnico desde el panel interno.
 
-<!-- ⚙️ Tecnologías Sugeridas para el Desarrollo Backend -->
+## ⚙️ Tecnologías Sugeridas para el Desarrollo Backend
 
-Node.js + Express.js → Gestión de APIs y lógica de negocio.
+- Node.js + Express.js → Gestión de APIs y lógica de negocio.
 
-MongoDB (o Firebase) → Almacenamiento flexible y escalable.
+- MongoDB (o Firebase) → Almacenamiento flexible y escalable.
 
-Webhooks para WhatsApp API → Comunicación bidireccional en tiempo real.
+- Webhooks para WhatsApp API → Comunicación bidireccional en tiempo real.
 
-OpenAI API o Dialogflow → Procesamiento del lenguaje natural e IA.
+- OpenAI API o Dialogflow → Procesamiento del lenguaje natural e IA.
 
-Frontend
-React.js + TailwindCSS → Interfaz visual moderna y ágil.
+## Frontend
+- React.js + TailwindCSS → Interfaz visual moderna y ágil.
 
-React Flow o similar → Constructor visual de flujos conversacionales.
+- React Flow o similar → Constructor visual de flujos conversacionales.
 
-JWT + Roles → Seguridad y permisos.
+- JWT + Roles → Seguridad y permisos.
 
-WhatsApp API
-Meta Business Cloud API (oficial) o proveedor como 360dialog o Twilio.
+## WhatsApp API
+- Meta Business Cloud API (oficial) o proveedor como 360dialog o Twilio.
 
-<!-- 📅 Roadmap por Fases
-✅ Fase 1 MVP (Producto Viable Mínimo) -->
+## 📅 Roadmap por Fases
 
-Login con roles: administrador y técnico.
+## ✅ Fase 1 MVP (Producto Viable Mínimo)
 
-Creación manual de bots con formularios y flujo básico (tipo JSON).
+- Login con roles: administrador y técnico.
 
-Integración inicial con WhatsApp API.
+- Creación manual de bots con formularios y flujo básico (tipo JSON).
 
-Envío de mensajes automatizados + botones de respuesta rápida.
+- Integración inicial con WhatsApp API.
 
-Base de datos con historial por número de WhatsApp.
+- Envío de mensajes automatizados + botones de respuesta rápida.
 
-Panel de métricas básicas.
+- Base de datos con historial por número de WhatsApp.
 
-<!-- 🔁 Fase 2  Avanzado -->
+- Panel de métricas básicas.
 
-Constructor visual de flujos (drag & drop).
+## 🔁 Fase 2  Avanzado
 
-Entrenamiento del bot por frases (entrenamiento no-code).
+- Constructor visual de flujos (drag & drop).
 
-Plantillas sectorizadas para crear bots en minutos.
+- Entrenamiento del bot por frases (entrenamiento no-code).
 
-Recomendaciones de mejora por IA (flujo, preguntas frecuentes, etc.).
+- Plantillas sectorizadas para crear bots en minutos.
 
-Transferencia a humanos desde el panel.
+- Recomendaciones de mejora por IA (flujo, preguntas frecuentes, etc.).
 
-<!-- 🚀 Fase 3  Comercialización -->
+- Transferencia a humanos desde el panel.
 
-Planes de suscripción por número o por bot.
+## 🚀 Fase 3  Comercialización
 
-Panel multiempresa.
+- Planes de suscripción por número o por bot.
 
-Dashboard personalizado por cliente.
+- Panel multiempresa.
 
-Soporte multilingüe.
+- Dashboard personalizado por cliente.
 
-Web pública para que otras empresas se registren y empiecen gratis.
+- Soporte multilingüe.
 
-<!-- 📞 Contacto -->
+- Web pública para que otras empresas se registren y empiecen gratis.
 
-Si estás interesado en colaborar, invertir o usar Aurabot, puedes contactarme a través de:
+## 📞 Contacto
 
-GitHub: [(https://github.com/Brian1794)]
+- Si estás interesado en colaborar, invertir o usar Aurabot, puedes contactarme a través de:
 
-Correo: [bgalfonso@soy.sena.edu.co]
+- GitHub: [(https://github.com/Brian1794)]
 
-<!-- 🧠 ¿Por qué cualquier empresa querría usar Aurabot? -->
+- Correo: [bgalfonso@soy.sena.edu.co]
 
-Automatización real: no solo responde, resuelve tareas.
+## 🧠 ¿Por qué cualquier empresa querría usar Aurabot?
 
-Solo WhatsApp: más especializado, más optimizado.
+- Automatización real: no solo responde, resuelve tareas.
 
-Entrenamiento sin programar: cualquier persona puede crear su bot.
+- Solo WhatsApp: más especializado, más optimizado.
 
-Escalable y flexible: desde un negocio pequeño hasta una corporación.
+- Entrenamiento sin programar: cualquier persona puede crear su bot.
 
-Soporte + ventas 24/7 sin personal adicional.
+- Escalable y flexible: desde un negocio pequeño hasta una corporación.
+
+- Soporte + ventas 24/7 sin personal adicional.
